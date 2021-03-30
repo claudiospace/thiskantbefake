@@ -46,7 +46,7 @@ We worked very hard to create all the content available.
 
 [Visit our facebook page](https://www.facebook.com/thiskantbefake/) and have a conversation with Kant, our chatbot.
 
-## Membros do time 36
+## Members of the team
 
 * [Alina Fester](https://www.linkedin.com/in/alina-fester-587755188/)
 * [Claudio Alves](https://www.linkedin.com/in/claudiospace/) 
