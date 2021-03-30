@@ -11,7 +11,7 @@ This website, game and chatbot are prototypes created as part of the course **Ed
 
 Masters in **Educational Technology** from Saarland University.
 
-[![This Kant Be Fake demo](https://jornadasmiles.netlify.app/img/mapa1.png)](https://jornadasmiles.netlify.app/)
+[![This Kant Be Fake demo](https://thiskantbefake.netlify.app/game_fn.html)](https://thiskantbefake.netlify.app/)
 
 
 ## Is Fake News New?
@@ -24,7 +24,7 @@ With those questions in mind, we created educational resources for learners to b
 
 We inspired our game on Kantian ideas about the relation between ethics and politics, the role of the emotions in political spechees, the public and the private use of reason and the relationship between the reason and the structural bases for the search of the truth. In our game, we present Kant in the form of a chameleon helps the character going through the Fake News challenges.
 
-[![This Kant Be Fake logo](https://thiskantbefake.netlify.app/img/Kant_icon_v2.png)
+[![This Kant Be Fake logo](https://s3-ap-south-1.amazonaws.com/bot-bkt/prod/47433/47433-Kant%20Gif_v2.gif)
 
 Our game is currently a playable prototype to give an idea of how can we teach the topic of Fake News using gamification.
 [Click here to read the game plot](https://thiskantbefake.netlify.app/plot.html)
