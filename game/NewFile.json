@@ -1,0 +1,22 @@
+[
+	{
+		"title": "Dial1",
+		"tags": "",
+		"body": "Uff, this has been another long day.\nI want to go home now.",
+		"position": {
+			"x": 163,
+			"y": -163
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Dial2",
+		"tags": "",
+		"body": "- Stop, you have been here before. ✋\n- Here grandpa lives.\n- It feels bad to live so near to the local jail.\n- Ugh",
+		"position": {
+			"x": -96,
+			"y": 17
+		},
+		"colorID": 0
+	}
+]
