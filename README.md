@@ -32,7 +32,7 @@ Our game is currently a playable prototype to give an idea of how can we teach t
 ## What makes the game unique?
 
 We developed activities that are well embeded at the game plot for a more authentic learning experience.
-You can [take a look](https://mm.tt/1768236376?t=9dcNwygvsR)on our planned activities map and activities sample.
+You can [take a look](https://mm.tt/1768236376?t=9dcNwygvsR) on our planned activities map and activities sample.
 
 ## What did we learn
 Learn by doing. We learn how to convey and apply different learning approaches and theories in this project. We also had the chance to deal with production aspects and teamwork collaboration.
