@@ -11,7 +11,7 @@ This website, game and chatbot are prototypes created as part of the course **Ed
 
 Masters in **Educational Technology** from Saarland University.
 
-[![This Kant Be Fake demo](https://thiskantbefake.netlify.app/game_fn.html)](https://thiskantbefake.netlify.app/)
+[![This Kant Be Fake demo](https://thiskantbefake.netlify.app/img/fb_cover.png)](https://thiskantbefake.netlify.app/)
 
 
 ## Is Fake News New?
