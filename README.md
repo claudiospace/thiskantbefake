@@ -49,7 +49,7 @@ We worked very hard to create all the content available.
 ## Members of the team
 
 * [Alina Fester](https://www.linkedin.com/in/alina-fester-587755188/)
-* [Claudio Alves](https://www.linkedin.com/in/claudiospace/) 
+* [Claudio Alves](https://www.linkedin.com/in/claudioprof/) 
 * [Eleonora Battaia](https://www.linkedin.com/in/eleonora-battaia-1499a1195/) 
 * [Narine Gevorgyan](https://www.linkedin.com/in/narine-gevorgyan/) 
 
