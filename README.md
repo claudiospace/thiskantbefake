@@ -24,7 +24,7 @@ With those questions in mind, we created educational resources for learners to b
 
 We were inspired by Kantian ideas about the relation between ethics and politics, the role of the emotions in political speeches, the public and the private use of reason and the relationship between reason and the structural bases for the search for the truth. In our game, we present Kant in the form of a chameleon (a Chatbot), who helps the character go through the Fake News challenges.
 
-[![This Kant Be Fake logo](https://s3-ap-south-1.amazonaws.com/bot-bkt/prod/47433/47433-Kant%20Gif_v2.gif)
+[This Kant Be Fake logo](https://s3-ap-south-1.amazonaws.com/bot-bkt/prod/47433/47433-Kant%20Gif_v2.gif)
 
 Our game is currently a playable prototype to give an idea of how we can teach the topic of Fake News using gamification.
 
