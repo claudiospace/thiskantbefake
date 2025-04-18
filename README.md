@@ -9,7 +9,7 @@ This Kant Be Fake!
 
 This website, game and chatbot are prototypes created as part of the course **Edutech Design Challenge**.
 
-Master's in **Educational Technology** - Saarland University.
+Master's in **Educational Technology** - Saarland University (2021).
 
 [![This Kant Be Fake demo](https://thiskantbefake.netlify.app/img/fb_cover.png)](https://thiskantbefake.netlify.app/)
 
@@ -27,7 +27,7 @@ We were inspired by Kantian ideas about the relation between ethics and politics
 [![This Kant Be Fake logo](https://s3-ap-south-1.amazonaws.com/bot-bkt/prod/47433/47433-Kant%20Gif_v2.gif)
 
 Our game is currently a playable prototype to give an idea of how we can teach the topic of Fake News using gamification.
-**Note**: Some of the components are not available anymore in the prototype. 
+
 [Click here to read the game plot](https://thiskantbefake.netlify.app/plot.html)
 
 ## What makes the game unique?
